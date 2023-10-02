@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+}
+
+header {
+  position: sticky;
+  top: 0;
+}
+
+footer {
+  position: sticky;
+  bottom: 0;
+}
+
+body {
+  font-size: 1rem;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'San Francisco', sans-serif;
+}
+
+img {
+  display: block;
+  width: 400px;
+  height: 80px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 16px;
+  }
